@@ -1,2 +1,2 @@
-# Artificial_Intelligence
-(Fall 2016) 《Artificial Intelligence》 Assignment in School of Computer Science &amp; Engineering, Soongsil University
+# SSU_Artificial_Intelligence
+(Fall 2016) 《Artificial Intelligence》 Materials in School of Computer Science &amp; Engineering, Soongsil University
